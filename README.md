@@ -113,12 +113,12 @@ If everything looks ok, deploy it.
 rake deploy
 ```
 
-## Applying the wood theme to your blog
+## Applying the classic theme to your blog
 
 Follow this set of instructions when you want to install the default Octopress theme. It is largely similar to the instructions for installing a new theme. Only the name of the theme has changed.
 
 ``` sh
-rake install[wood]
+rake install[classic]
 rake generate
 ```
 
