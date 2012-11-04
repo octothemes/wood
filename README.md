@@ -1,6 +1,6 @@
 # Octopress Themes - Wood Theme
 
-![Octopress Wood Theme thumbnail](https://s3.amazonaws.com/static.liangzan.net/wood-thumbnail.png)
+![Octopress Wood Theme thumbnail](https://s3.amazonaws.com/static.octopressthemes.com/thumbnails/wood-thumbnail.png)
 
 Wood theme is a theme hand made for Octopress blogging framework. It is compatible with Octopress 2. Updates will be provided from this repository.
 
